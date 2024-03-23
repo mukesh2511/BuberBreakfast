@@ -1,0 +1,8 @@
+////////Approach/////////////
+
+This is the sevice which intent to create breakfast, delete breakfast and get breakfast . Here the created Documents are getting stored in the memory itself. I am not using any database for storage purpose. 
+
+
+///////Reason/////////
+Actually i was not very sure  about how to approach your problem and your provided interfaces.So i decided to buld a breakfast system which shows the basic CRUD operation of Breakfast.
+
